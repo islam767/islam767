@@ -30,3 +30,9 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=islam767&show_icons=true&locale=en" alt="islam767" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islam767&" alt="islam767" /></p>
+
+
+
+
+
+![snake gif](https://github.com/islam767/islam767/blob/output/github-contribution-grid-snake.gif)
