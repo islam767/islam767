@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Islomjon Ergashev</h1>
-<h3 align="center">Hindistan'dan tutkulu bir frontend geliştiricisiyim</h3>
+<h3 align="center">Türkiye'dan tutkulu bir frontend geliştiricisiyim</h3>
 
 - 🔭 Şu anda **Viking Cüce Savaşçısı (RPG Oyun Projesi)** üzerinde çalışıyorum
 
